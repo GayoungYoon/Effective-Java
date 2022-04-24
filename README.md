@@ -2,7 +2,8 @@
 
 <img src="https://image.yes24.com/goods/65551284/XL" width="300" height="400"> 이것은 우리가 우걱우걱 소화해버릴 이펙티브 자바
 
-## 2. 객체 생성과 파괴
+## [2. 객체 생성과 파괴](https://github.com/GayoungYoon/Effective-Java/tree/main/2%EA%B0%95_%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%8C%8C%EA%B4%B4)
+ - issue : https://github.com/GayoungYoon/Effective-Java/labels/chapter2
 ## 3. 모든 객체의 공통 메소드
  + 스터디 일정 : 4월 마지막주 목요일
  + 스터디 리더 : 윤가영(2강), 손민호(3강)
